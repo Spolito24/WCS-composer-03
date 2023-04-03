@@ -1,0 +1,17 @@
+{
+    "name": "wcs/composer03",
+    "autoload": {
+        "psr-4": {
+            "Wcs\\Composer03\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baptiste",
+            "email": "baptisterenier69@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
